@@ -1,8 +1,6 @@
-# Disruption_forecasting_in_Supply_Chain
-Personal project: Studying the performance of different GNN models using dynamic heterogeneous graph datasets in supply chains.
 # **Disruption Forecasting in Supply Chain**
 
-This repository contains the code and data for my personal project on disruption forecasting in supply chains using Graph Neural Networks (GNNs). The project focuses on studying the performance of various GNN models using dynamic heterogeneous graph datasets and comparing these models with traditional Recurrent Neural Network (RNN) approaches. The goal is to explore the potential of dynamic heterogeneous graphs in addressing terminal issues in supply chains.
+This repository contains the code, data and report for my personal project on disruption forecasting in supply chains using Graph Neural Networks (GNNs). The project focuses on studying the performance of various GNN models using dynamic heterogeneous graph datasets and comparing these models with traditional Recurrent Neural Network (RNN) approaches. The goal is to explore the potential of dynamic heterogeneous graphs in addressing terminal issues in supply chains.
 
 ## **Project Overview**
 
