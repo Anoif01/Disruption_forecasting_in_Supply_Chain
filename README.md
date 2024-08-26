@@ -51,7 +51,7 @@ It can be observed that products belonging to the same group have a tendency to 
 This visualization combines prediction results with ground truth and alarm signals, offering a holistic view of the GCN model's performance in real-time.
 
 ## **Report**
-![Report](ressources/SupplyGraph_repport_fonce.png)
+![Report](ressources/SupGraph-repport.png)
 
 A detailed analysis and discussion of the project.
 
